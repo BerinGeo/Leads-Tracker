@@ -1,0 +1,7 @@
+{
+    "manifest-version": 3,
+    "version": 0.10,
+    "action": {
+        "pop-up": "index.html"
+    }
+}
