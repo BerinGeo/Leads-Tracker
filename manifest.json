@@ -1,0 +1,10 @@
+{
+    "manifest-version": 3,
+    "version": 1.0,
+    "action": {
+        "pop-up": "index.html"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
